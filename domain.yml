@@ -14,7 +14,6 @@ intents:
 - another_animal
 - favorite_animal
 - lets_talk
-- action_favorite_animal
 - utter_happy
 entities:
 - animal
