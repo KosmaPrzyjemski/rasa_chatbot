@@ -305,6 +305,7 @@ stories:
   - intent: goodbye
   - action: utter_goodbye
 
+# automatically generated stories from conversations
 - story: Story from Conversation ID d86f1bf70f604bb0873c09a8f91158d7
   steps:
   - intent: greet
